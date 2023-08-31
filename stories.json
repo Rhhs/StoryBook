@@ -1,0 +1,38 @@
+[
+   {
+      "storyId":"1111",
+      "title":[
+         { "ar":"البطيخ الأصفر" },
+         { "en":"yellow haphap" },
+         { "tr":"sarı karpuz" }
+      ],
+      "assetDownloadLink":"link here"
+   },
+   {
+      "storyId":"2222",
+      "title":[
+         { "ar":"البطيخ الأصفر" },
+         { "en":"yellow haphap" },
+         { "tr":"sarı karpuz" }
+      ],
+      "assetDownloadLink":"link here"
+   },
+   {
+      "storyId":"3333",
+      "title":[
+         { "ar":"البطيخ الأصفر" },
+         { "en":"yellow haphap" },
+         { "tr":"sarı karpuz" }
+      ],
+      "assetDownloadLink":"link here"
+   },
+   {
+      "storyId":"4444",
+      "title":[
+         { "ar":"البطيخ الأصفر" },
+         { "en":"yellow haphap" },
+         { "tr":"sarı karpuz" }
+      ],
+      "assetDownloadLink":"link here"
+   },
+]

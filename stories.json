@@ -1,26 +1,42 @@
 [
    {
       "storyId":"1111",
-      "titles":{"key1":"val1","key2":"val2"},
+      "titles": {
+         "ar": "البطيخ الأصفر",
+         "en": "yellow haphap",
+         "tr": "sarı karpuz"
+      },
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
    },
    {
       "storyId":"2222",
-      "titles":{"key1":"val1","key2":"val2"},
+      "titles": {
+         "ar": "البطيخ الأخضر",
+         "en": "green haphap",
+         "tr": "yesil karpuz"
+      },
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
    },
    {
       "storyId":"3333",
-      "titles":{"key1":"val1","key2":"val2"},
+      "titles": {
+         "ar": "البطيخ الاحمر",
+         "en": "red haphap",
+         "tr": "kirmizi karpuz"
+      },
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
    },
    {
       "storyId":"4444",
-      "titles":{"key1":"val1","key2":"val2"},
+      "titles": {
+         "ar": "البطيخ الأزرق",
+         "en": "blue haphap",
+         "tr": "mavi karpuz"
+      },
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
-   }
+   },
 ]

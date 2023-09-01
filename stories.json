@@ -6,7 +6,7 @@
          { "en":"yellow haphap" },
          { "tr":"sarı karpuz" }
       ],
-      "iconLink":"icon link here",
+      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
    },
    {
@@ -16,7 +16,7 @@
          { "en":"yellow haphap" },
          { "tr":"sarı karpuz" }
       ],
-      "iconLink":"icon link here",
+      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
    },
    {
@@ -26,7 +26,7 @@
          { "en":"yellow haphap" },
          { "tr":"sarı karpuz" }
       ],
-      "iconLink":"icon link here",
+      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
    },
    {
@@ -36,7 +36,7 @@
          { "en":"yellow haphap" },
          { "tr":"sarı karpuz" }
       ],
-      "iconLink":"icon link here",
+      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
    },
 ]

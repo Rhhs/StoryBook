@@ -2,9 +2,15 @@
    {
       "storyId":"1111",
       "titles":[
-         { "ar":"البطيخ الأصفر" },
-         { "en":"yellow haphap" },
-         { "tr":"sarı karpuz" }
+         {
+            "ar":"البطيخ الأصفر"
+         },
+         {
+            "en":"yellow haphap"
+         },
+         {
+            "tr":"sarı karpuz"
+         }
       ],
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
@@ -12,9 +18,15 @@
    {
       "storyId":"2222",
       "titles":[
-         { "ar":"البطيخ الأصفر" },
-         { "en":"yellow haphap" },
-         { "tr":"sarı karpuz" }
+         {
+            "ar":"البطيخ الأصفر"
+         },
+         {
+            "en":"yellow haphap"
+         },
+         {
+            "tr":"sarı karpuz"
+         }
       ],
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
@@ -22,9 +34,15 @@
    {
       "storyId":"3333",
       "titles":[
-         { "ar":"البطيخ الأصفر" },
-         { "en":"yellow haphap" },
-         { "tr":"sarı karpuz" }
+         {
+            "ar":"البطيخ الأصفر"
+         },
+         {
+            "en":"yellow haphap"
+         },
+         {
+            "tr":"sarı karpuz"
+         }
       ],
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
@@ -32,11 +50,17 @@
    {
       "storyId":"4444",
       "titles":[
-         { "ar":"البطيخ الأصفر" },
-         { "en":"yellow haphap" },
-         { "tr":"sarı karpuz" }
+         {
+            "ar":"البطيخ الأصفر"
+         },
+         {
+            "en":"yellow haphap"
+         },
+         {
+            "tr":"sarı karpuz"
+         }
       ],
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
       "assetDownloadLink":"link here"
-   },
+   }
 ]

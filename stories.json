@@ -1,7 +1,7 @@
 [
    {
       "storyId":"1111",
-      "title":[
+      "titles":[
          { "ar":"البطيخ الأصفر" },
          { "en":"yellow haphap" },
          { "tr":"sarı karpuz" }
@@ -11,7 +11,7 @@
    },
    {
       "storyId":"2222",
-      "title":[
+      "titles":[
          { "ar":"البطيخ الأصفر" },
          { "en":"yellow haphap" },
          { "tr":"sarı karpuz" }
@@ -21,7 +21,7 @@
    },
    {
       "storyId":"3333",
-      "title":[
+      "titles":[
          { "ar":"البطيخ الأصفر" },
          { "en":"yellow haphap" },
          { "tr":"sarı karpuz" }
@@ -31,7 +31,7 @@
    },
    {
       "storyId":"4444",
-      "title":[
+      "titles":[
          { "ar":"البطيخ الأصفر" },
          { "en":"yellow haphap" },
          { "tr":"sarı karpuz" }

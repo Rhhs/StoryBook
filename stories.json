@@ -1,42 +1,62 @@
 [
    {
       "storyId":"1111",
+      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
+      "assetDownloadLink":"link here"
       "titles": {
          "ar": "البطيخ الأصفر",
          "en": "yellow haphap",
          "tr": "sarı karpuz"
       },
-      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
-      "assetDownloadLink":"link here"
+      "audioClipsLinks" : {
+         "ar": "link here",
+         "en": "link here",
+         "tr": "link here"
+      },
    },
    {
       "storyId":"2222",
+      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
+      "assetDownloadLink":"link here"
       "titles": {
          "ar": "البطيخ الأخضر",
          "en": "green haphap",
          "tr": "yesil karpuz"
       },
-      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
-      "assetDownloadLink":"link here"
+      "audioClipsLinks" : {
+         "ar": "link here",
+         "en": "link here",
+         "tr": "link here"
+      },
    },
    {
       "storyId":"3333",
+      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
+      "assetDownloadLink":"link here"
       "titles": {
          "ar": "البطيخ الاحمر",
          "en": "red haphap",
          "tr": "kirmizi karpuz"
       },
-      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
-      "assetDownloadLink":"link here"
+      "audioClipsLinks" : {
+         "ar": "link here",
+         "en": "link here",
+         "tr": "link here"
+      },
    },
    {
       "storyId":"4444",
+      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
+      "assetDownloadLink":"link here"
       "titles": {
          "ar": "البطيخ الأزرق",
          "en": "blue haphap",
          "tr": "mavi karpuz"
       },
-      "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
-      "assetDownloadLink":"link here"
+      "audioClipsLinks" : {
+         "ar": "link here",
+         "en": "link here",
+         "tr": "link here"
+      },
    },
 ]

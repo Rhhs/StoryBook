@@ -9,9 +9,9 @@
          "tr":"sarı karpuz"
       },
       "audioClipsLinks":{
-         "ar":"link here",
-         "en":"link here",
-         "tr":"link here"
+         "ar":"link here ar",
+         "en":"link here en",
+         "tr":"link here tr"
       }
    },
    {
@@ -24,9 +24,9 @@
          "tr":"yesil karpuz"
       },
       "audioClipsLinks":{
-         "ar":"link here",
-         "en":"link here",
-         "tr":"link here"
+         "ar":"link here ar",
+         "en":"link here en",
+         "tr":"link here tr"
       }
    },
    {
@@ -39,9 +39,9 @@
          "tr":"kirmizi karpuz"
       },
       "audioClipsLinks":{
-         "ar":"link here",
-         "en":"link here",
-         "tr":"link here"
+         "ar":"link here ar",
+         "en":"link here en",
+         "tr":"link here tr"
       }
    },
    {
@@ -54,9 +54,9 @@
          "tr":"mavi karpuz"
       },
       "audioClipsLinks":{
-         "ar":"link here",
-         "en":"link here",
-         "tr":"link here"
+         "ar":"link here ar",
+         "en":"link here en",
+         "tr":"link here tr"
       }
    }
 ]

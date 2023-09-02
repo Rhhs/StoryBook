@@ -2,7 +2,7 @@
    {
       "storyId":"1111",
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
-      "assetDownloadLink":"link here"
+      "assetDownloadLink":"link here",
       "titles": {
          "ar": "البطيخ الأصفر",
          "en": "yellow haphap",
@@ -17,7 +17,7 @@
    {
       "storyId":"2222",
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
-      "assetDownloadLink":"link here"
+      "assetDownloadLink":"link here",
       "titles": {
          "ar": "البطيخ الأخضر",
          "en": "green haphap",
@@ -32,7 +32,7 @@
    {
       "storyId":"3333",
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
-      "assetDownloadLink":"link here"
+      "assetDownloadLink":"link here",
       "titles": {
          "ar": "البطيخ الاحمر",
          "en": "red haphap",
@@ -47,7 +47,7 @@
    {
       "storyId":"4444",
       "iconLink":"https://raw.githubusercontent.com/Rhhs/StoryBook/main/Icons/icon.png",
-      "assetDownloadLink":"link here"
+      "assetDownloadLink":"link here",
       "titles": {
          "ar": "البطيخ الأزرق",
          "en": "blue haphap",
